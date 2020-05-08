@@ -1,0 +1,13 @@
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\bin\Debug\netcoreapp3.1\TriangleClassifier.exe
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\bin\Debug\netcoreapp3.1\TriangleClassifier.deps.json
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\bin\Debug\netcoreapp3.1\TriangleClassifier.runtimeconfig.json
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\bin\Debug\netcoreapp3.1\TriangleClassifier.runtimeconfig.dev.json
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\bin\Debug\netcoreapp3.1\TriangleClassifier.dll
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\bin\Debug\netcoreapp3.1\TriangleClassifier.pdb
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\obj\Debug\netcoreapp3.1\TriangleClassifier.csprojAssemblyReference.cache
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\obj\Debug\netcoreapp3.1\TriangleClassifier.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\obj\Debug\netcoreapp3.1\TriangleClassifier.AssemblyInfoInputs.cache
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\obj\Debug\netcoreapp3.1\TriangleClassifier.AssemblyInfo.cs
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\obj\Debug\netcoreapp3.1\TriangleClassifier.dll
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\obj\Debug\netcoreapp3.1\TriangleClassifier.pdb
+G:\codegym\module2\bai8\TriangleClassifier\TriangleClassifier\obj\Debug\netcoreapp3.1\TriangleClassifier.genruntimeconfig.cache

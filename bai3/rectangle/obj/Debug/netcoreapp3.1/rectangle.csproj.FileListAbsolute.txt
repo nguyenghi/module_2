@@ -1,0 +1,13 @@
+G:\codegym\module2\bai3\rectangle\bin\Debug\netcoreapp3.1\rectangle.exe
+G:\codegym\module2\bai3\rectangle\bin\Debug\netcoreapp3.1\rectangle.deps.json
+G:\codegym\module2\bai3\rectangle\bin\Debug\netcoreapp3.1\rectangle.runtimeconfig.json
+G:\codegym\module2\bai3\rectangle\bin\Debug\netcoreapp3.1\rectangle.runtimeconfig.dev.json
+G:\codegym\module2\bai3\rectangle\bin\Debug\netcoreapp3.1\rectangle.dll
+G:\codegym\module2\bai3\rectangle\bin\Debug\netcoreapp3.1\rectangle.pdb
+G:\codegym\module2\bai3\rectangle\obj\Debug\netcoreapp3.1\rectangle.csprojAssemblyReference.cache
+G:\codegym\module2\bai3\rectangle\obj\Debug\netcoreapp3.1\rectangle.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai3\rectangle\obj\Debug\netcoreapp3.1\rectangle.AssemblyInfoInputs.cache
+G:\codegym\module2\bai3\rectangle\obj\Debug\netcoreapp3.1\rectangle.AssemblyInfo.cs
+G:\codegym\module2\bai3\rectangle\obj\Debug\netcoreapp3.1\rectangle.dll
+G:\codegym\module2\bai3\rectangle\obj\Debug\netcoreapp3.1\rectangle.pdb
+G:\codegym\module2\bai3\rectangle\obj\Debug\netcoreapp3.1\rectangle.genruntimeconfig.cache

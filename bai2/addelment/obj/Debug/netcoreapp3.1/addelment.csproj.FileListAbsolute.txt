@@ -1,0 +1,13 @@
+G:\codegym\module2\bai2\addelment\bin\Debug\netcoreapp3.1\addelment.exe
+G:\codegym\module2\bai2\addelment\bin\Debug\netcoreapp3.1\addelment.deps.json
+G:\codegym\module2\bai2\addelment\bin\Debug\netcoreapp3.1\addelment.runtimeconfig.json
+G:\codegym\module2\bai2\addelment\bin\Debug\netcoreapp3.1\addelment.runtimeconfig.dev.json
+G:\codegym\module2\bai2\addelment\bin\Debug\netcoreapp3.1\addelment.dll
+G:\codegym\module2\bai2\addelment\bin\Debug\netcoreapp3.1\addelment.pdb
+G:\codegym\module2\bai2\addelment\obj\Debug\netcoreapp3.1\addelment.csprojAssemblyReference.cache
+G:\codegym\module2\bai2\addelment\obj\Debug\netcoreapp3.1\addelment.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai2\addelment\obj\Debug\netcoreapp3.1\addelment.AssemblyInfoInputs.cache
+G:\codegym\module2\bai2\addelment\obj\Debug\netcoreapp3.1\addelment.AssemblyInfo.cs
+G:\codegym\module2\bai2\addelment\obj\Debug\netcoreapp3.1\addelment.dll
+G:\codegym\module2\bai2\addelment\obj\Debug\netcoreapp3.1\addelment.pdb
+G:\codegym\module2\bai2\addelment\obj\Debug\netcoreapp3.1\addelment.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\codegym\module 2\Bai1\songuyento\bin\Debug\netcoreapp3.1\songuyento.exe
+G:\codegym\module 2\Bai1\songuyento\bin\Debug\netcoreapp3.1\songuyento.deps.json
+G:\codegym\module 2\Bai1\songuyento\bin\Debug\netcoreapp3.1\songuyento.runtimeconfig.json
+G:\codegym\module 2\Bai1\songuyento\bin\Debug\netcoreapp3.1\songuyento.runtimeconfig.dev.json
+G:\codegym\module 2\Bai1\songuyento\bin\Debug\netcoreapp3.1\songuyento.dll
+G:\codegym\module 2\Bai1\songuyento\bin\Debug\netcoreapp3.1\songuyento.pdb
+G:\codegym\module 2\Bai1\songuyento\obj\Debug\netcoreapp3.1\songuyento.csprojAssemblyReference.cache
+G:\codegym\module 2\Bai1\songuyento\obj\Debug\netcoreapp3.1\songuyento.csproj.CoreCompileInputs.cache
+G:\codegym\module 2\Bai1\songuyento\obj\Debug\netcoreapp3.1\songuyento.AssemblyInfoInputs.cache
+G:\codegym\module 2\Bai1\songuyento\obj\Debug\netcoreapp3.1\songuyento.AssemblyInfo.cs
+G:\codegym\module 2\Bai1\songuyento\obj\Debug\netcoreapp3.1\songuyento.dll
+G:\codegym\module 2\Bai1\songuyento\obj\Debug\netcoreapp3.1\songuyento.pdb
+G:\codegym\module 2\Bai1\songuyento\obj\Debug\netcoreapp3.1\songuyento.genruntimeconfig.cache

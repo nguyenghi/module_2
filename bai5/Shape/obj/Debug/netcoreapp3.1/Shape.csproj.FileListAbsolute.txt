@@ -1,0 +1,13 @@
+G:\codegym\module2\bai5\Shape\bin\Debug\netcoreapp3.1\Shape.exe
+G:\codegym\module2\bai5\Shape\bin\Debug\netcoreapp3.1\Shape.deps.json
+G:\codegym\module2\bai5\Shape\bin\Debug\netcoreapp3.1\Shape.runtimeconfig.json
+G:\codegym\module2\bai5\Shape\bin\Debug\netcoreapp3.1\Shape.runtimeconfig.dev.json
+G:\codegym\module2\bai5\Shape\bin\Debug\netcoreapp3.1\Shape.dll
+G:\codegym\module2\bai5\Shape\bin\Debug\netcoreapp3.1\Shape.pdb
+G:\codegym\module2\bai5\Shape\obj\Debug\netcoreapp3.1\Shape.csprojAssemblyReference.cache
+G:\codegym\module2\bai5\Shape\obj\Debug\netcoreapp3.1\Shape.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai5\Shape\obj\Debug\netcoreapp3.1\Shape.AssemblyInfoInputs.cache
+G:\codegym\module2\bai5\Shape\obj\Debug\netcoreapp3.1\Shape.AssemblyInfo.cs
+G:\codegym\module2\bai5\Shape\obj\Debug\netcoreapp3.1\Shape.dll
+G:\codegym\module2\bai5\Shape\obj\Debug\netcoreapp3.1\Shape.pdb
+G:\codegym\module2\bai5\Shape\obj\Debug\netcoreapp3.1\Shape.genruntimeconfig.cache

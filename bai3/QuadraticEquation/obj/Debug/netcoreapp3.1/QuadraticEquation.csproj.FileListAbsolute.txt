@@ -1,0 +1,13 @@
+G:\codegym\module2\bai3\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.csprojAssemblyReference.cache
+G:\codegym\module2\bai3\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai3\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.AssemblyInfoInputs.cache
+G:\codegym\module2\bai3\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.AssemblyInfo.cs
+G:\codegym\module2\bai3\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.exe
+G:\codegym\module2\bai3\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.deps.json
+G:\codegym\module2\bai3\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.runtimeconfig.json
+G:\codegym\module2\bai3\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.runtimeconfig.dev.json
+G:\codegym\module2\bai3\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.dll
+G:\codegym\module2\bai3\QuadraticEquation\bin\Debug\netcoreapp3.1\QuadraticEquation.pdb
+G:\codegym\module2\bai3\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.dll
+G:\codegym\module2\bai3\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.pdb
+G:\codegym\module2\bai3\QuadraticEquation\obj\Debug\netcoreapp3.1\QuadraticEquation.genruntimeconfig.cache

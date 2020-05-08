@@ -1,0 +1,13 @@
+G:\codegym\module2\Bai1\hienthisnto\bin\Debug\netcoreapp3.1\hienthisnto.exe
+G:\codegym\module2\Bai1\hienthisnto\bin\Debug\netcoreapp3.1\hienthisnto.deps.json
+G:\codegym\module2\Bai1\hienthisnto\bin\Debug\netcoreapp3.1\hienthisnto.runtimeconfig.json
+G:\codegym\module2\Bai1\hienthisnto\bin\Debug\netcoreapp3.1\hienthisnto.runtimeconfig.dev.json
+G:\codegym\module2\Bai1\hienthisnto\bin\Debug\netcoreapp3.1\hienthisnto.dll
+G:\codegym\module2\Bai1\hienthisnto\bin\Debug\netcoreapp3.1\hienthisnto.pdb
+G:\codegym\module2\Bai1\hienthisnto\obj\Debug\netcoreapp3.1\hienthisnto.csprojAssemblyReference.cache
+G:\codegym\module2\Bai1\hienthisnto\obj\Debug\netcoreapp3.1\hienthisnto.csproj.CoreCompileInputs.cache
+G:\codegym\module2\Bai1\hienthisnto\obj\Debug\netcoreapp3.1\hienthisnto.AssemblyInfoInputs.cache
+G:\codegym\module2\Bai1\hienthisnto\obj\Debug\netcoreapp3.1\hienthisnto.AssemblyInfo.cs
+G:\codegym\module2\Bai1\hienthisnto\obj\Debug\netcoreapp3.1\hienthisnto.dll
+G:\codegym\module2\Bai1\hienthisnto\obj\Debug\netcoreapp3.1\hienthisnto.pdb
+G:\codegym\module2\Bai1\hienthisnto\obj\Debug\netcoreapp3.1\hienthisnto.genruntimeconfig.cache

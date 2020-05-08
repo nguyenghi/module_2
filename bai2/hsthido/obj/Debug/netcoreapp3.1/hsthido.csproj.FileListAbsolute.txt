@@ -1,0 +1,13 @@
+G:\codegym\module2\bai2\hsthido\bin\Debug\netcoreapp3.1\hsthido.exe
+G:\codegym\module2\bai2\hsthido\bin\Debug\netcoreapp3.1\hsthido.deps.json
+G:\codegym\module2\bai2\hsthido\bin\Debug\netcoreapp3.1\hsthido.runtimeconfig.json
+G:\codegym\module2\bai2\hsthido\bin\Debug\netcoreapp3.1\hsthido.runtimeconfig.dev.json
+G:\codegym\module2\bai2\hsthido\bin\Debug\netcoreapp3.1\hsthido.dll
+G:\codegym\module2\bai2\hsthido\bin\Debug\netcoreapp3.1\hsthido.pdb
+G:\codegym\module2\bai2\hsthido\obj\Debug\netcoreapp3.1\hsthido.csprojAssemblyReference.cache
+G:\codegym\module2\bai2\hsthido\obj\Debug\netcoreapp3.1\hsthido.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai2\hsthido\obj\Debug\netcoreapp3.1\hsthido.AssemblyInfoInputs.cache
+G:\codegym\module2\bai2\hsthido\obj\Debug\netcoreapp3.1\hsthido.AssemblyInfo.cs
+G:\codegym\module2\bai2\hsthido\obj\Debug\netcoreapp3.1\hsthido.dll
+G:\codegym\module2\bai2\hsthido\obj\Debug\netcoreapp3.1\hsthido.pdb
+G:\codegym\module2\bai2\hsthido\obj\Debug\netcoreapp3.1\hsthido.genruntimeconfig.cache

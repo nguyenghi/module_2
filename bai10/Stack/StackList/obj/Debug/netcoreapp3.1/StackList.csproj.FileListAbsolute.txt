@@ -1,0 +1,13 @@
+G:\codegym\module2\bai10\Stack\StackList\bin\Debug\netcoreapp3.1\StackList.exe
+G:\codegym\module2\bai10\Stack\StackList\bin\Debug\netcoreapp3.1\StackList.deps.json
+G:\codegym\module2\bai10\Stack\StackList\bin\Debug\netcoreapp3.1\StackList.runtimeconfig.json
+G:\codegym\module2\bai10\Stack\StackList\bin\Debug\netcoreapp3.1\StackList.runtimeconfig.dev.json
+G:\codegym\module2\bai10\Stack\StackList\bin\Debug\netcoreapp3.1\StackList.dll
+G:\codegym\module2\bai10\Stack\StackList\bin\Debug\netcoreapp3.1\StackList.pdb
+G:\codegym\module2\bai10\Stack\StackList\obj\Debug\netcoreapp3.1\StackList.csprojAssemblyReference.cache
+G:\codegym\module2\bai10\Stack\StackList\obj\Debug\netcoreapp3.1\StackList.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai10\Stack\StackList\obj\Debug\netcoreapp3.1\StackList.AssemblyInfoInputs.cache
+G:\codegym\module2\bai10\Stack\StackList\obj\Debug\netcoreapp3.1\StackList.AssemblyInfo.cs
+G:\codegym\module2\bai10\Stack\StackList\obj\Debug\netcoreapp3.1\StackList.dll
+G:\codegym\module2\bai10\Stack\StackList\obj\Debug\netcoreapp3.1\StackList.pdb
+G:\codegym\module2\bai10\Stack\StackList\obj\Debug\netcoreapp3.1\StackList.genruntimeconfig.cache

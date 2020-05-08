@@ -1,0 +1,13 @@
+G:\codegym\module2\bai2\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.exe
+G:\codegym\module2\bai2\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.deps.json
+G:\codegym\module2\bai2\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.runtimeconfig.json
+G:\codegym\module2\bai2\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.runtimeconfig.dev.json
+G:\codegym\module2\bai2\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.dll
+G:\codegym\module2\bai2\xoaphantu\bin\Debug\netcoreapp3.1\xoaphantu.pdb
+G:\codegym\module2\bai2\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.csprojAssemblyReference.cache
+G:\codegym\module2\bai2\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai2\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.AssemblyInfoInputs.cache
+G:\codegym\module2\bai2\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.AssemblyInfo.cs
+G:\codegym\module2\bai2\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.dll
+G:\codegym\module2\bai2\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.pdb
+G:\codegym\module2\bai2\xoaphantu\obj\Debug\netcoreapp3.1\xoaphantu.genruntimeconfig.cache

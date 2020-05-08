@@ -1,0 +1,13 @@
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.exe
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.deps.json
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.runtimeconfig.json
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.runtimeconfig.dev.json
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.dll
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\bin\Debug\netcoreapp3.1\MoveablePoint.pdb
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.csprojAssemblyReference.cache
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.AssemblyInfoInputs.cache
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.AssemblyInfo.cs
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.dll
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.pdb
+G:\codegym\module2\bai5\MoveablePoint\MoveablePoint\obj\Debug\netcoreapp3.1\MoveablePoint.genruntimeconfig.cache

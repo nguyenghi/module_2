@@ -1,0 +1,13 @@
+G:\codegym\module2\Bai1\songaythang\bin\Debug\netcoreapp3.1\songaythang.exe
+G:\codegym\module2\Bai1\songaythang\bin\Debug\netcoreapp3.1\songaythang.deps.json
+G:\codegym\module2\Bai1\songaythang\bin\Debug\netcoreapp3.1\songaythang.runtimeconfig.json
+G:\codegym\module2\Bai1\songaythang\bin\Debug\netcoreapp3.1\songaythang.runtimeconfig.dev.json
+G:\codegym\module2\Bai1\songaythang\bin\Debug\netcoreapp3.1\songaythang.dll
+G:\codegym\module2\Bai1\songaythang\bin\Debug\netcoreapp3.1\songaythang.pdb
+G:\codegym\module2\Bai1\songaythang\obj\Debug\netcoreapp3.1\songaythang.csprojAssemblyReference.cache
+G:\codegym\module2\Bai1\songaythang\obj\Debug\netcoreapp3.1\songaythang.csproj.CoreCompileInputs.cache
+G:\codegym\module2\Bai1\songaythang\obj\Debug\netcoreapp3.1\songaythang.AssemblyInfoInputs.cache
+G:\codegym\module2\Bai1\songaythang\obj\Debug\netcoreapp3.1\songaythang.AssemblyInfo.cs
+G:\codegym\module2\Bai1\songaythang\obj\Debug\netcoreapp3.1\songaythang.dll
+G:\codegym\module2\Bai1\songaythang\obj\Debug\netcoreapp3.1\songaythang.pdb
+G:\codegym\module2\Bai1\songaythang\obj\Debug\netcoreapp3.1\songaythang.genruntimeconfig.cache

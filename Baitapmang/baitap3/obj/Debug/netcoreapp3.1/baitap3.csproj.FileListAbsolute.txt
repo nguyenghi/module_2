@@ -1,0 +1,13 @@
+G:\codegym\module2\baitap3\obj\Debug\netcoreapp3.1\baitap3.csprojAssemblyReference.cache
+G:\codegym\module2\baitap3\obj\Debug\netcoreapp3.1\baitap3.csproj.CoreCompileInputs.cache
+G:\codegym\module2\baitap3\obj\Debug\netcoreapp3.1\baitap3.AssemblyInfoInputs.cache
+G:\codegym\module2\baitap3\obj\Debug\netcoreapp3.1\baitap3.AssemblyInfo.cs
+G:\codegym\module2\baitap3\bin\Debug\netcoreapp3.1\baitap3.exe
+G:\codegym\module2\baitap3\bin\Debug\netcoreapp3.1\baitap3.deps.json
+G:\codegym\module2\baitap3\bin\Debug\netcoreapp3.1\baitap3.runtimeconfig.json
+G:\codegym\module2\baitap3\bin\Debug\netcoreapp3.1\baitap3.runtimeconfig.dev.json
+G:\codegym\module2\baitap3\bin\Debug\netcoreapp3.1\baitap3.dll
+G:\codegym\module2\baitap3\bin\Debug\netcoreapp3.1\baitap3.pdb
+G:\codegym\module2\baitap3\obj\Debug\netcoreapp3.1\baitap3.dll
+G:\codegym\module2\baitap3\obj\Debug\netcoreapp3.1\baitap3.pdb
+G:\codegym\module2\baitap3\obj\Debug\netcoreapp3.1\baitap3.genruntimeconfig.cache

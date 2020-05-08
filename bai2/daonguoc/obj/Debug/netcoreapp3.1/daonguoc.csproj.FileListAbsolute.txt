@@ -1,0 +1,13 @@
+G:\codegym\module2\bai2\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.exe
+G:\codegym\module2\bai2\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.deps.json
+G:\codegym\module2\bai2\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.runtimeconfig.json
+G:\codegym\module2\bai2\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.runtimeconfig.dev.json
+G:\codegym\module2\bai2\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.dll
+G:\codegym\module2\bai2\daonguoc\bin\Debug\netcoreapp3.1\daonguoc.pdb
+G:\codegym\module2\bai2\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.csprojAssemblyReference.cache
+G:\codegym\module2\bai2\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai2\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.AssemblyInfoInputs.cache
+G:\codegym\module2\bai2\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.AssemblyInfo.cs
+G:\codegym\module2\bai2\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.dll
+G:\codegym\module2\bai2\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.pdb
+G:\codegym\module2\bai2\daonguoc\obj\Debug\netcoreapp3.1\daonguoc.genruntimeconfig.cache

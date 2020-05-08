@@ -1,0 +1,13 @@
+G:\codegym\module2\PhoneBook\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.exe
+G:\codegym\module2\PhoneBook\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.deps.json
+G:\codegym\module2\PhoneBook\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.runtimeconfig.json
+G:\codegym\module2\PhoneBook\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.runtimeconfig.dev.json
+G:\codegym\module2\PhoneBook\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.dll
+G:\codegym\module2\PhoneBook\PhoneBook\bin\Debug\netcoreapp3.1\PhoneBook.pdb
+G:\codegym\module2\PhoneBook\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.csprojAssemblyReference.cache
+G:\codegym\module2\PhoneBook\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.csproj.CoreCompileInputs.cache
+G:\codegym\module2\PhoneBook\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.AssemblyInfoInputs.cache
+G:\codegym\module2\PhoneBook\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.AssemblyInfo.cs
+G:\codegym\module2\PhoneBook\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.dll
+G:\codegym\module2\PhoneBook\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.pdb
+G:\codegym\module2\PhoneBook\PhoneBook\obj\Debug\netcoreapp3.1\PhoneBook.genruntimeconfig.cache

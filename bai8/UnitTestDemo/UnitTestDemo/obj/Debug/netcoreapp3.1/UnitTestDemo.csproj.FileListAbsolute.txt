@@ -1,0 +1,13 @@
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.exe
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.deps.json
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.runtimeconfig.json
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.runtimeconfig.dev.json
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.dll
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.pdb
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.csprojAssemblyReference.cache
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.AssemblyInfoInputs.cache
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.AssemblyInfo.cs
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.dll
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.pdb
+G:\codegym\module2\bai8\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.genruntimeconfig.cache

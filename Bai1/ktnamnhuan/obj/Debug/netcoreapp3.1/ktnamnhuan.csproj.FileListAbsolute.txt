@@ -1,0 +1,13 @@
+G:\codegym\module2\Bai1\ktnamnhuan\obj\Debug\netcoreapp3.1\ktnamnhuan.csprojAssemblyReference.cache
+G:\codegym\module2\Bai1\ktnamnhuan\obj\Debug\netcoreapp3.1\ktnamnhuan.csproj.CoreCompileInputs.cache
+G:\codegym\module2\Bai1\ktnamnhuan\obj\Debug\netcoreapp3.1\ktnamnhuan.AssemblyInfoInputs.cache
+G:\codegym\module2\Bai1\ktnamnhuan\obj\Debug\netcoreapp3.1\ktnamnhuan.AssemblyInfo.cs
+G:\codegym\module2\Bai1\ktnamnhuan\bin\Debug\netcoreapp3.1\ktnamnhuan.exe
+G:\codegym\module2\Bai1\ktnamnhuan\bin\Debug\netcoreapp3.1\ktnamnhuan.deps.json
+G:\codegym\module2\Bai1\ktnamnhuan\bin\Debug\netcoreapp3.1\ktnamnhuan.runtimeconfig.json
+G:\codegym\module2\Bai1\ktnamnhuan\bin\Debug\netcoreapp3.1\ktnamnhuan.runtimeconfig.dev.json
+G:\codegym\module2\Bai1\ktnamnhuan\bin\Debug\netcoreapp3.1\ktnamnhuan.dll
+G:\codegym\module2\Bai1\ktnamnhuan\bin\Debug\netcoreapp3.1\ktnamnhuan.pdb
+G:\codegym\module2\Bai1\ktnamnhuan\obj\Debug\netcoreapp3.1\ktnamnhuan.dll
+G:\codegym\module2\Bai1\ktnamnhuan\obj\Debug\netcoreapp3.1\ktnamnhuan.pdb
+G:\codegym\module2\Bai1\ktnamnhuan\obj\Debug\netcoreapp3.1\ktnamnhuan.genruntimeconfig.cache

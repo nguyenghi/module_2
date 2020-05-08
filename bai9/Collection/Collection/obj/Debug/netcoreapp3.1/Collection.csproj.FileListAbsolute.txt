@@ -1,0 +1,13 @@
+G:\codegym\module2\bai9\Collection\Collection\bin\Debug\netcoreapp3.1\Collection.exe
+G:\codegym\module2\bai9\Collection\Collection\bin\Debug\netcoreapp3.1\Collection.deps.json
+G:\codegym\module2\bai9\Collection\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.json
+G:\codegym\module2\bai9\Collection\Collection\bin\Debug\netcoreapp3.1\Collection.runtimeconfig.dev.json
+G:\codegym\module2\bai9\Collection\Collection\bin\Debug\netcoreapp3.1\Collection.dll
+G:\codegym\module2\bai9\Collection\Collection\bin\Debug\netcoreapp3.1\Collection.pdb
+G:\codegym\module2\bai9\Collection\Collection\obj\Debug\netcoreapp3.1\Collection.csprojAssemblyReference.cache
+G:\codegym\module2\bai9\Collection\Collection\obj\Debug\netcoreapp3.1\Collection.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai9\Collection\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfoInputs.cache
+G:\codegym\module2\bai9\Collection\Collection\obj\Debug\netcoreapp3.1\Collection.AssemblyInfo.cs
+G:\codegym\module2\bai9\Collection\Collection\obj\Debug\netcoreapp3.1\Collection.dll
+G:\codegym\module2\bai9\Collection\Collection\obj\Debug\netcoreapp3.1\Collection.pdb
+G:\codegym\module2\bai9\Collection\Collection\obj\Debug\netcoreapp3.1\Collection.genruntimeconfig.cache

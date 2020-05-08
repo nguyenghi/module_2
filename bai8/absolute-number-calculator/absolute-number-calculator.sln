@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "absolute-number-calculator", "absolute-number-calculator\absolute-number-calculator.csproj", "{84C9FF44-008D-4969-A88F-E53CA75CBA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteNumberCalculatorTest", "AbsoluteNumberCalculatorTest\AbsoluteNumberCalculatorTest.csproj", "{796EF58F-7BBA-45C4-AB9C-3AFD11B60EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84C9FF44-008D-4969-A88F-E53CA75CBA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C9FF44-008D-4969-A88F-E53CA75CBA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C9FF44-008D-4969-A88F-E53CA75CBA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C9FF44-008D-4969-A88F-E53CA75CBA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796EF58F-7BBA-45C4-AB9C-3AFD11B60EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796EF58F-7BBA-45C4-AB9C-3AFD11B60EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796EF58F-7BBA-45C4-AB9C-3AFD11B60EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796EF58F-7BBA-45C4-AB9C-3AFD11B60EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12AA63F9-F290-4579-8CF0-D9BDB754C5A9}
+	EndGlobalSection
+EndGlobal

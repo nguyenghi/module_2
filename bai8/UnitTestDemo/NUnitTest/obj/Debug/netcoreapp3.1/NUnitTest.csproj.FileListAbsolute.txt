@@ -1,0 +1,4 @@
+G:\codegym\module2\bai8\UnitTestDemo\NUnitTest\bin\Debug\netcoreapp3.1\NUnitTest.exe
+G:\codegym\module2\bai8\UnitTestDemo\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.csprojAssemblyReference.cache
+G:\codegym\module2\bai8\UnitTestDemo\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.AssemblyInfoInputs.cache
+G:\codegym\module2\bai8\UnitTestDemo\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.AssemblyInfo.cs

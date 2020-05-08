@@ -1,0 +1,13 @@
+G:\codegym\module2\Bai1\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.exe
+G:\codegym\module2\Bai1\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.deps.json
+G:\codegym\module2\Bai1\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.runtimeconfig.json
+G:\codegym\module2\Bai1\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.runtimeconfig.dev.json
+G:\codegym\module2\Bai1\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.dll
+G:\codegym\module2\Bai1\ptbacnhat\bin\Debug\netcoreapp3.1\ptbacnhat.pdb
+G:\codegym\module2\Bai1\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.csprojAssemblyReference.cache
+G:\codegym\module2\Bai1\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.csproj.CoreCompileInputs.cache
+G:\codegym\module2\Bai1\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.AssemblyInfoInputs.cache
+G:\codegym\module2\Bai1\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.AssemblyInfo.cs
+G:\codegym\module2\Bai1\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.dll
+G:\codegym\module2\Bai1\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.pdb
+G:\codegym\module2\Bai1\ptbacnhat\obj\Debug\netcoreapp3.1\ptbacnhat.genruntimeconfig.cache

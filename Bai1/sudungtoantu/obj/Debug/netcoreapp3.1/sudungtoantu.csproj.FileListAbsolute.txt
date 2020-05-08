@@ -1,0 +1,13 @@
+G:\codegym\module2\Bai1\sudungtoantu\bin\Debug\netcoreapp3.1\sudungtoantu.exe
+G:\codegym\module2\Bai1\sudungtoantu\bin\Debug\netcoreapp3.1\sudungtoantu.deps.json
+G:\codegym\module2\Bai1\sudungtoantu\bin\Debug\netcoreapp3.1\sudungtoantu.runtimeconfig.json
+G:\codegym\module2\Bai1\sudungtoantu\bin\Debug\netcoreapp3.1\sudungtoantu.runtimeconfig.dev.json
+G:\codegym\module2\Bai1\sudungtoantu\bin\Debug\netcoreapp3.1\sudungtoantu.dll
+G:\codegym\module2\Bai1\sudungtoantu\bin\Debug\netcoreapp3.1\sudungtoantu.pdb
+G:\codegym\module2\Bai1\sudungtoantu\obj\Debug\netcoreapp3.1\sudungtoantu.csprojAssemblyReference.cache
+G:\codegym\module2\Bai1\sudungtoantu\obj\Debug\netcoreapp3.1\sudungtoantu.csproj.CoreCompileInputs.cache
+G:\codegym\module2\Bai1\sudungtoantu\obj\Debug\netcoreapp3.1\sudungtoantu.AssemblyInfoInputs.cache
+G:\codegym\module2\Bai1\sudungtoantu\obj\Debug\netcoreapp3.1\sudungtoantu.AssemblyInfo.cs
+G:\codegym\module2\Bai1\sudungtoantu\obj\Debug\netcoreapp3.1\sudungtoantu.dll
+G:\codegym\module2\Bai1\sudungtoantu\obj\Debug\netcoreapp3.1\sudungtoantu.pdb
+G:\codegym\module2\Bai1\sudungtoantu\obj\Debug\netcoreapp3.1\sudungtoantu.genruntimeconfig.cache

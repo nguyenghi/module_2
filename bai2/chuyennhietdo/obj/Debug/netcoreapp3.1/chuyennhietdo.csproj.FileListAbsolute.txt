@@ -1,0 +1,13 @@
+G:\codegym\module2\bai2\chuyennhietdo\obj\Debug\netcoreapp3.1\chuyennhietdo.csprojAssemblyReference.cache
+G:\codegym\module2\bai2\chuyennhietdo\obj\Debug\netcoreapp3.1\chuyennhietdo.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai2\chuyennhietdo\obj\Debug\netcoreapp3.1\chuyennhietdo.AssemblyInfoInputs.cache
+G:\codegym\module2\bai2\chuyennhietdo\obj\Debug\netcoreapp3.1\chuyennhietdo.AssemblyInfo.cs
+G:\codegym\module2\bai2\chuyennhietdo\bin\Debug\netcoreapp3.1\chuyennhietdo.exe
+G:\codegym\module2\bai2\chuyennhietdo\bin\Debug\netcoreapp3.1\chuyennhietdo.deps.json
+G:\codegym\module2\bai2\chuyennhietdo\bin\Debug\netcoreapp3.1\chuyennhietdo.runtimeconfig.json
+G:\codegym\module2\bai2\chuyennhietdo\bin\Debug\netcoreapp3.1\chuyennhietdo.runtimeconfig.dev.json
+G:\codegym\module2\bai2\chuyennhietdo\bin\Debug\netcoreapp3.1\chuyennhietdo.dll
+G:\codegym\module2\bai2\chuyennhietdo\bin\Debug\netcoreapp3.1\chuyennhietdo.pdb
+G:\codegym\module2\bai2\chuyennhietdo\obj\Debug\netcoreapp3.1\chuyennhietdo.dll
+G:\codegym\module2\bai2\chuyennhietdo\obj\Debug\netcoreapp3.1\chuyennhietdo.pdb
+G:\codegym\module2\bai2\chuyennhietdo\obj\Debug\netcoreapp3.1\chuyennhietdo.genruntimeconfig.cache

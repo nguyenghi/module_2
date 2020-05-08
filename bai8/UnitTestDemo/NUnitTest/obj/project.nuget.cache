@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "adpCITS3c29t20XGdD/CuyH5jKQOhhWUgp3b8kQa6xMV3i+3QG/KHhviVt3e3YlmP/mB8vhwGw7Kp3JanyZYMA==",
+  "success": true,
+  "projectFilePath": "G:\\codegym\\module2\\bai8\\UnitTestDemo\\NUnitTest\\NUnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

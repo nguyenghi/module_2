@@ -1,0 +1,13 @@
+G:\codegym\module2\Bai1\tkmenu\bin\Debug\netcoreapp3.1\tkmenu.exe
+G:\codegym\module2\Bai1\tkmenu\bin\Debug\netcoreapp3.1\tkmenu.deps.json
+G:\codegym\module2\Bai1\tkmenu\bin\Debug\netcoreapp3.1\tkmenu.runtimeconfig.json
+G:\codegym\module2\Bai1\tkmenu\bin\Debug\netcoreapp3.1\tkmenu.runtimeconfig.dev.json
+G:\codegym\module2\Bai1\tkmenu\bin\Debug\netcoreapp3.1\tkmenu.dll
+G:\codegym\module2\Bai1\tkmenu\bin\Debug\netcoreapp3.1\tkmenu.pdb
+G:\codegym\module2\Bai1\tkmenu\obj\Debug\netcoreapp3.1\tkmenu.csprojAssemblyReference.cache
+G:\codegym\module2\Bai1\tkmenu\obj\Debug\netcoreapp3.1\tkmenu.csproj.CoreCompileInputs.cache
+G:\codegym\module2\Bai1\tkmenu\obj\Debug\netcoreapp3.1\tkmenu.AssemblyInfoInputs.cache
+G:\codegym\module2\Bai1\tkmenu\obj\Debug\netcoreapp3.1\tkmenu.AssemblyInfo.cs
+G:\codegym\module2\Bai1\tkmenu\obj\Debug\netcoreapp3.1\tkmenu.dll
+G:\codegym\module2\Bai1\tkmenu\obj\Debug\netcoreapp3.1\tkmenu.pdb
+G:\codegym\module2\Bai1\tkmenu\obj\Debug\netcoreapp3.1\tkmenu.genruntimeconfig.cache

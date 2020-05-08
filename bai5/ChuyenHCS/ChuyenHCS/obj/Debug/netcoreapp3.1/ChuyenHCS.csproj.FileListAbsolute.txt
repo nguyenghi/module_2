@@ -1,0 +1,13 @@
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\bin\Debug\netcoreapp3.1\ChuyenHCS.exe
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\bin\Debug\netcoreapp3.1\ChuyenHCS.deps.json
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\bin\Debug\netcoreapp3.1\ChuyenHCS.runtimeconfig.json
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\bin\Debug\netcoreapp3.1\ChuyenHCS.runtimeconfig.dev.json
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\bin\Debug\netcoreapp3.1\ChuyenHCS.dll
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\bin\Debug\netcoreapp3.1\ChuyenHCS.pdb
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\obj\Debug\netcoreapp3.1\ChuyenHCS.csprojAssemblyReference.cache
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\obj\Debug\netcoreapp3.1\ChuyenHCS.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\obj\Debug\netcoreapp3.1\ChuyenHCS.AssemblyInfoInputs.cache
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\obj\Debug\netcoreapp3.1\ChuyenHCS.AssemblyInfo.cs
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\obj\Debug\netcoreapp3.1\ChuyenHCS.dll
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\obj\Debug\netcoreapp3.1\ChuyenHCS.pdb
+G:\codegym\module2\bai5\ChuyenHCS\ChuyenHCS\obj\Debug\netcoreapp3.1\ChuyenHCS.genruntimeconfig.cache

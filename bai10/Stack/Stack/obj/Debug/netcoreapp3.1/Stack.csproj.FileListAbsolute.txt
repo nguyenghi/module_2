@@ -1,0 +1,13 @@
+G:\codegym\module2\bai10\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+G:\codegym\module2\bai10\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+G:\codegym\module2\bai10\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+G:\codegym\module2\bai10\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+G:\codegym\module2\bai10\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+G:\codegym\module2\bai10\Stack\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+G:\codegym\module2\bai10\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+G:\codegym\module2\bai10\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai10\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+G:\codegym\module2\bai10\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+G:\codegym\module2\bai10\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+G:\codegym\module2\bai10\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+G:\codegym\module2\bai10\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

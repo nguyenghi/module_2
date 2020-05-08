@@ -1,0 +1,13 @@
+G:\codegym\module2\bai5\Product\Product\bin\Debug\netcoreapp3.1\Products.exe
+G:\codegym\module2\bai5\Product\Product\bin\Debug\netcoreapp3.1\Products.deps.json
+G:\codegym\module2\bai5\Product\Product\bin\Debug\netcoreapp3.1\Products.runtimeconfig.json
+G:\codegym\module2\bai5\Product\Product\bin\Debug\netcoreapp3.1\Products.runtimeconfig.dev.json
+G:\codegym\module2\bai5\Product\Product\bin\Debug\netcoreapp3.1\Products.dll
+G:\codegym\module2\bai5\Product\Product\bin\Debug\netcoreapp3.1\Products.pdb
+G:\codegym\module2\bai5\Product\Product\obj\Debug\netcoreapp3.1\Products.csprojAssemblyReference.cache
+G:\codegym\module2\bai5\Product\Product\obj\Debug\netcoreapp3.1\Products.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai5\Product\Product\obj\Debug\netcoreapp3.1\Products.AssemblyInfoInputs.cache
+G:\codegym\module2\bai5\Product\Product\obj\Debug\netcoreapp3.1\Products.AssemblyInfo.cs
+G:\codegym\module2\bai5\Product\Product\obj\Debug\netcoreapp3.1\Products.dll
+G:\codegym\module2\bai5\Product\Product\obj\Debug\netcoreapp3.1\Products.pdb
+G:\codegym\module2\bai5\Product\Product\obj\Debug\netcoreapp3.1\Products.genruntimeconfig.cache

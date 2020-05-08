@@ -1,0 +1,13 @@
+G:\codegym\module2\bai2\gopmang\obj\Debug\netcoreapp3.1\gopmang.csprojAssemblyReference.cache
+G:\codegym\module2\bai2\gopmang\obj\Debug\netcoreapp3.1\gopmang.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai2\gopmang\obj\Debug\netcoreapp3.1\gopmang.AssemblyInfoInputs.cache
+G:\codegym\module2\bai2\gopmang\obj\Debug\netcoreapp3.1\gopmang.AssemblyInfo.cs
+G:\codegym\module2\bai2\gopmang\bin\Debug\netcoreapp3.1\gopmang.exe
+G:\codegym\module2\bai2\gopmang\bin\Debug\netcoreapp3.1\gopmang.deps.json
+G:\codegym\module2\bai2\gopmang\bin\Debug\netcoreapp3.1\gopmang.runtimeconfig.json
+G:\codegym\module2\bai2\gopmang\bin\Debug\netcoreapp3.1\gopmang.runtimeconfig.dev.json
+G:\codegym\module2\bai2\gopmang\bin\Debug\netcoreapp3.1\gopmang.dll
+G:\codegym\module2\bai2\gopmang\bin\Debug\netcoreapp3.1\gopmang.pdb
+G:\codegym\module2\bai2\gopmang\obj\Debug\netcoreapp3.1\gopmang.dll
+G:\codegym\module2\bai2\gopmang\obj\Debug\netcoreapp3.1\gopmang.pdb
+G:\codegym\module2\bai2\gopmang\obj\Debug\netcoreapp3.1\gopmang.genruntimeconfig.cache

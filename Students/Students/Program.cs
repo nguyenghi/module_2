@@ -82,11 +82,11 @@ namespace Students
             {
                 if (name == ListStudent[i].Fullame)
                 {
-                    pos = i;
+                    pos =ListStudent[i].ID;
                 }
 
             }
-            if(pos > 0)
+            if(pos!= -1)
             {
                 ListStudent[pos].Display();
             }

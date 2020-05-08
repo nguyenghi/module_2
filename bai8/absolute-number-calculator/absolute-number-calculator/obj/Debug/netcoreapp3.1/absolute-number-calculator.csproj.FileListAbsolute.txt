@@ -1,0 +1,13 @@
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\bin\Debug\netcoreapp3.1\absolute-number-calculator.exe
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\bin\Debug\netcoreapp3.1\absolute-number-calculator.deps.json
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\bin\Debug\netcoreapp3.1\absolute-number-calculator.runtimeconfig.json
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\bin\Debug\netcoreapp3.1\absolute-number-calculator.runtimeconfig.dev.json
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\bin\Debug\netcoreapp3.1\absolute-number-calculator.dll
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\bin\Debug\netcoreapp3.1\absolute-number-calculator.pdb
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\obj\Debug\netcoreapp3.1\absolute-number-calculator.csprojAssemblyReference.cache
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\obj\Debug\netcoreapp3.1\absolute-number-calculator.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\obj\Debug\netcoreapp3.1\absolute-number-calculator.AssemblyInfoInputs.cache
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\obj\Debug\netcoreapp3.1\absolute-number-calculator.AssemblyInfo.cs
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\obj\Debug\netcoreapp3.1\absolute-number-calculator.dll
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\obj\Debug\netcoreapp3.1\absolute-number-calculator.pdb
+G:\codegym\module2\bai8\absolute-number-calculator\absolute-number-calculator\obj\Debug\netcoreapp3.1\absolute-number-calculator.genruntimeconfig.cache

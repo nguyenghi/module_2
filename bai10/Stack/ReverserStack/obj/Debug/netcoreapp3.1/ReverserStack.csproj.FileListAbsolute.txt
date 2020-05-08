@@ -1,0 +1,4 @@
+G:\codegym\module2\bai10\Stack\ReverserStack\obj\Debug\netcoreapp3.1\ReverserStack.csprojAssemblyReference.cache
+G:\codegym\module2\bai10\Stack\ReverserStack\obj\Debug\netcoreapp3.1\ReverserStack.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai10\Stack\ReverserStack\obj\Debug\netcoreapp3.1\ReverserStack.AssemblyInfoInputs.cache
+G:\codegym\module2\bai10\Stack\ReverserStack\obj\Debug\netcoreapp3.1\ReverserStack.AssemblyInfo.cs
