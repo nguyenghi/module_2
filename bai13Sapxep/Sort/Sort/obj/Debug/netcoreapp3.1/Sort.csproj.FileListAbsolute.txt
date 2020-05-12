@@ -1,0 +1,13 @@
+G:\codegym\module2\bai13Sapxep\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.exe
+G:\codegym\module2\bai13Sapxep\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.deps.json
+G:\codegym\module2\bai13Sapxep\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.json
+G:\codegym\module2\bai13Sapxep\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.dev.json
+G:\codegym\module2\bai13Sapxep\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.dll
+G:\codegym\module2\bai13Sapxep\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.pdb
+G:\codegym\module2\bai13Sapxep\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.csprojAssemblyReference.cache
+G:\codegym\module2\bai13Sapxep\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.csproj.CoreCompileInputs.cache
+G:\codegym\module2\bai13Sapxep\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfoInputs.cache
+G:\codegym\module2\bai13Sapxep\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfo.cs
+G:\codegym\module2\bai13Sapxep\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.dll
+G:\codegym\module2\bai13Sapxep\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.pdb
+G:\codegym\module2\bai13Sapxep\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.genruntimeconfig.cache
