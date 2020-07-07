@@ -1,0 +1,80 @@
+﻿@model VitaBookStrore.ViewModels.HomeDetailViewModel;
+  @{  var avatarPath = $"/images/{ (Model.book.AvatarPath ?? "nonavatar.png")}";
+
+  }
+    <from>
+        <div class=" row">
+            <div class="col-sm-4">
+                <div>
+                    <img src="@avatarPath" width=" 300" , height=" 500">
+                </div>
+            </div>
+
+            <div class=" col-8 table">
+
+                <table class=" table-primary">
+                    <tr>
+                        <th width=" 150">
+                            <h6> Tên sách: </h6>
+
+                        </th>
+                        <th>
+                            <h6> @Model.book.Name</h6>
+
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            <h6>Tác giả: </h6>
+
+                        </th>
+                        <th>
+                            <h6> @Model.book.Author</h6>
+
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            <h6> Giá bìa: </h6>
+
+                        </th>
+                        <th>
+                            <h6> @Model.book.Price.ToString("#,##0 VNĐ")</h6>
+
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            <h6>Thể loại:</h6>
+
+                        </th>
+                        <th>
+                            <h6> @Model.book.GenreName</h6>
+
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>
+                            <h6>Giới thiệu: </h6>
+
+                        </th>
+                        <th>
+                            <h6> @Model.book.Depscrip</h6>
+
+                        </th>
+                    </tr>
+
+                </table>
+                <div>
+                    <a class="btn btn-outline-primary">
+                        Thêm vào giỏ hàng
+                    </a>
+                    <a class="btn btn-outline-primary">
+                        Mua ngay
+                    </a>
+                </div>
+
+            </div>
+         </div>
+
+    </from>

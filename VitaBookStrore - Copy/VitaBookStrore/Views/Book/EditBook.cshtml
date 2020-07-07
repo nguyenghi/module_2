@@ -1,0 +1,96 @@
+﻿@model VitaBookStrore.ViewModels.BookEditViewModel;
+@{
+    ViewBag.TiTle = "Edit Book";
+}
+    <form enctype="multipart/form-data" asp-controller="Book" asp-action="EditBook" asp-route-ïd="Id" method="post" class=" mt-3">
+        <input hidden asp-for="Id" />
+        <input hidden asp-for="AvatarPath" />
+        <div class="row form-group">
+            <div class="col-sm-2">
+                <label asp-for="Name"></label>
+            </div>
+            <div class="col-sm-10">
+                <input asp-for="Name" class="from form-control" />
+                <span asp-validation-for="Name" class="text alert-danger"></span>
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-sm-2">
+                <label asp-for="Price"></label>
+            </div>
+            <div class="col-sm-10">
+                <input asp-for="Price" class="from form-control" />
+                <span asp-validation-for="Price" class="text alert-danger"></span>
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-sm-2">
+                <label asp-for="Author"></label>
+            </div>
+            <div class="col-sm-10">
+                <input asp-for="Author" class="from form-control" />
+                <span asp-validation-for="Author" class="text alert-danger"></span>
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-sm-2">
+                <label asp-for="GenreId"></label>
+            </div>
+            <div class="col-sm-10">
+                <input asp-for="GenreId" class="from form-control" />
+                <span asp-validation-for="GenreId" class="text alert-danger"></span>
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-sm-2">
+                <label asp-for="AvatarPath"></label>
+            </div>
+            <div class="col-sm-10">
+                <div class="custom-file">
+                    <input class="custom-file-input" asp-for="AvatarPath">
+                    <label class="custom-file-label" for="custom-file" asp-for="AvatarPath">Choose file</label>
+                </div>
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-sm-2">
+                <label asp-for="Depscrip"></label>
+            </div>
+            <div class="col-sm-10">
+                <input asp-for="Depscrip" class="from form-control" />
+                <span asp-validation-for="Depscrip" class="text alert-danger"></span>
+            </div>
+        </div>
+        <div class="row form-group">
+            <div class="col-sm-2">
+                <label asp-for="Remain"></label>
+            </div>
+            <div class="col-sm-10">
+                <input asp-for="Remain" class="from form-control" />
+                <span asp-validation-for="Remain" class="text alert-danger"></span>
+            </div>
+        </div>
+        <div class="col-4 offset-4">
+            <img src="@Model.AvatarPath" style="height: 250px ; width : auto" asp-append-version="true" />
+
+        </div>
+
+        <div class="row form-group">
+            <div class="col-sm-12">
+                <button type="submit" class="btn btn-primary"> Edit</button>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-danger"> Back</a>
+            </div>
+        </div>
+
+    </form>
+@section Script{
+    <script>
+        $(document).ready(function () {
+            $(".custom-file-input").on("change", function () {
+                var fileName = $(this).val().split("\\").pop();
+                $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+            });
+        });
+    </script>
+
+}

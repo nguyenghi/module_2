@@ -1,0 +1,71 @@
+﻿@{
+    ViewData["Title"] = "Trang quản lí";
+    var books = ViewBag.Books as IEnumerable<Book>;
+}
+
+<form>
+
+    <div class="container">
+        <h1> BookManagement</h1>
+        <a class="btn btn-outline-primary" asp-area="" asp-controller="Book" asp-action="CreateBook">Create</a>
+
+        <div>
+            <table class="table table-hover mt-2" >
+                <thead class="thead-dark">
+                    <tr>
+                        <th>#ID</th>
+                        <th>Tên sách</th>
+                        <th>Tác giả</th>
+                        <th>Ảnh bìa</th>
+                        <th>Giá bìa</th>
+                        <th>Giới thiệu</th>
+                        <th>Tồn kho</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var book in books)
+                    {
+                        <tr>
+                            <td>
+                                @book.Id
+                            </td>
+                            <td>
+                                @book.Name
+                            </td>
+                            <td>
+                                @book.Author
+                            </td>
+                            <td>
+                                @book.AvatarPath
+                            </td>
+                            <td>
+                                @book.Price
+                            </td>
+                            <td>
+                                @book.Depscrip
+                            </td>
+                            <td>
+                                @book.Remain
+                            </td>
+                            <td>
+
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Book" asp-action="EditBook" asp-route-id="@book.Id">
+                                    <img src="~/images/edit-small-icon-png-transparent.png" width="20" height="20" />
+                                </a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Book" asp-action="DetailBook" asp-route-id="@book.Id ">
+                                    <img src="~/images/images (4).jpg" width="20" height="20" />
+                                </a>
+
+                            </td>
+                        </tr>
+                       
+                      
+                    }
+                </tbody>
+
+            </table>
+        </div>
+    </div>
+</form>
+
