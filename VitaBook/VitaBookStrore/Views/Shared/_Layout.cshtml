@@ -1,0 +1,88 @@
+﻿@inject   SignInManager<IdentityUser> signInManager;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]  VitaBookStrore</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-#ff33cc border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"> <img src="~/images/Vita-designstyle-colors-m.png" width=" 50" height="50"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        @if (signInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Management">Management</a>
+                            </li>
+                        }
+
+
+                      
+                     
+
+                    </ul>
+
+
+                </div>
+                <ul class="navbar-nav ml-auto">
+                    
+                    @if (signInManager.IsSignedIn(User))
+                    {
+                        <li>
+                            <form asp-controller="Account" asp-action="Logout" method="post">
+                                <button type="submit" class="btn btn-link text-dark">Logout @User.Identity.Name</button>
+                            </form>
+                        </li>
+
+                    }
+                    else
+                    {
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dark" data-toggle="dropdown" href="#">Tài khoản</a>
+                            <div class="dropdown-menu">
+                                <a class="nav-link " asp-controller="Account" asp-action="Register">Đăng kí</a>
+                                <a class="nav-link " asp-controller="Account" asp-action="Login">Đăng nhập</a>
+                            </div>
+                        </li>
+
+                    }
+
+                </ul>
+
+            </div>
+        </nav>
+
+    </header>
+
+
+
+    <div class="">
+        @RenderBody()
+    </div>
+
+    @*<footer class="border-top footer text-muted ">*@
+    <div class="text-center py-4 text-light my-1 " style="background-color:darkslategray">
+        &copy; 2020 - VitaBookStrore - <a asp-controller="Home" asp-action=""></a>
+    </div>
+    @*</footer>*@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js"></script>
+    @RenderSection("Script", required: false)
+</body>
+</html>

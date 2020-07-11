@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VitaBookStrore", "VitaBookStrore\VitaBookStrore.csproj", "{9249C3C2-6289-4978-BBFC-943F14B2AD67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9249C3C2-6289-4978-BBFC-943F14B2AD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9249C3C2-6289-4978-BBFC-943F14B2AD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9249C3C2-6289-4978-BBFC-943F14B2AD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9249C3C2-6289-4978-BBFC-943F14B2AD67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B07BC6-1301-4537-99DD-E4422DE330AB}
+	EndGlobalSection
+EndGlobal

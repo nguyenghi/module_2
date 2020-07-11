@@ -1,0 +1,126 @@
+﻿@{
+    ViewData["Title"] = "Trang quản lí";
+    var books = ViewBag.Books as IEnumerable<Book>;
+}
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="libs/node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="libs/node_modules/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="css/site.css">
+    <title>Vita Book</title>
+</head>
+<body>
+    <h1> BOOK MANAGEMENT</h1>
+    <a class="btn btn-outline-primary" asp-area="" asp-controller="Book" asp-action="CreateBook">Create</a>
+
+    <div>
+        <div id="search_wrapper" class="dataTables_wrapper no-footer">
+            <div class="dataTables_length" id="search_length">
+                <label>
+                    Show
+                    <select name="search_length" aria-controls="search" class="">
+                        <option value="10">10</option>
+                        <option value="25">25</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select> entries
+                </label>
+            </div>
+            <div id="search_filter" class="dataTables_filter">
+                <label>
+                    Search:
+                    <input type="search" class="" placeholder="" aria-controls="search">
+                </label>
+            </div>
+
+        </div>
+        <form>
+
+            <div class="container">
+
+
+                <div>
+                    <table class="table table-hover mt-2 dataTable no-footer" id="search" role="grid" aria-describedby="search_info">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th class="sorting_asc" tabindex="0"
+                                    aria-controls="search" rowspan="1" colspan="1" aria-sort="ascending"
+                                    aria-label="#ID: activate to sort column descending" style="width: 26px;">
+                                    #ID
+                                </th>
+                                <th>Tên sách</th>
+                                <th>Tác giả</th>
+                                <th>Ảnh bìa</th>
+                                <th>Giá bìa</th>
+                                <th>Giới thiệu</th>
+                                <th>Tồn kho</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var book in books)
+                            {
+                                var avatar = $"/images/{book.AvatarPath}";
+                                <tr>
+                                    <td>
+                                        @book.Id
+                                    </td>
+                                    <td>
+                                        @book.Name
+                                    </td>
+                                    <td>
+                                        @book.Author
+                                    </td>
+                                    <td>
+                                        <img src="@avatar" style="width: 70px; height: 100px" />
+                                    </td>
+                                    <td>
+                                        @book.Price
+                                    </td>
+
+                                    <td>
+                                        @book.Depscrip
+                                    </td>
+                                    <td>
+                                        @book.Remain
+                                    </td>
+                                    <td>
+
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Book" asp-action="EditBook" asp-route-id="@book.Id">
+                                            <img src="~/images/edit-small-icon-png-transparent.png" width="20" height="20" />
+                                        </a>
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Book" asp-action="DetailBook" asp-route-id="@book.Id ">
+                                            <img src="~/images/images (4).jpg" width="20" height="20" />
+                                        </a>
+
+                                    </td>
+                                </tr>
+
+
+                            }
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+        </form>
+        <div class="dataTables_info" id="search_info" role="status" aria-live="polite">Showing 1 to 6 of 6 entries</div>
+        <div class="dataTables_paginate paging_simple_numbers" id="search_paginate">
+            <a class="paginate_button previous disabled" aria-controls="search" data-dt-idx="0" tabindex="-1" id="search_previous">Previous</a>
+            <span><a class="paginate_button current" aria-controls="search" data-dt-idx="1" tabindex="0">1</a></span>
+            <a class="paginate_button next disabled" aria-controls="search" data-dt-idx="2" tabindex="-1" id="search_next">Next</a>
+        </div>
+    </div>
+
+    <script src="libs/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="libs/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="libs/node_modules/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="libs/node_modules/bootbox/bootbox.js"></script>
+    <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+    <script src="script/book.js"></script>
+</body>

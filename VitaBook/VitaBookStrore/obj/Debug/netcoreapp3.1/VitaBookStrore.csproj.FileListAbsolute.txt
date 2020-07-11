@@ -1,0 +1,257 @@
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\appsettings.json
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.exe
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.deps.json
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.runtimeconfig.json
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.runtimeconfig.dev.json
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.pdb
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.Views.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.Views.pdb
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.csprojAssemblyReference.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.RazorAssemblyInfo.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.RazorAssemblyInfo.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.AssemblyInfoInputs.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.AssemblyInfo.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.TagHelpers.input.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.TagHelpers.output.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.RazorCoreGenerate.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.RazorTargetAssemblyInfo.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.RazorTargetAssemblyInfo.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.Views.pdb
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\staticwebassets\VitaBookStrore.StaticWebAssets.Manifest.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\staticwebassets\VitaBookStrore.StaticWebAssets.xml
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.pdb
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.genruntimeconfig.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.csproj.CopyComplete
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.csproj.CoreCompileInputs.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.MvcApplicationPartsAssemblyInfo.cache
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Book\BookManagement.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Book\CreateBook.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Book\DetailBook.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Book\EditBook.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index1.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+G:\codegym\module2\VitaBookStrore\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.exe
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.deps.json
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.runtimeconfig.json
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.runtimeconfig.dev.json
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.pdb
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.Views.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\VitaBookStrore.Views.pdb
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.csprojAssemblyReference.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.RazorAssemblyInfo.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.RazorAssemblyInfo.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.AssemblyInfoInputs.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.AssemblyInfo.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.TagHelpers.input.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.TagHelpers.output.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.RazorCoreGenerate.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Book\BookManagement.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Book\CreateBook.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Book\DetailBook.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Book\EditBook.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Create.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Index.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.RazorTargetAssemblyInfo.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.RazorTargetAssemblyInfo.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.Views.pdb
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.csproj.CopyComplete
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\staticwebassets\VitaBookStrore.StaticWebAssets.Manifest.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\staticwebassets\VitaBookStrore.StaticWebAssets.xml
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.pdb
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.genruntimeconfig.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Management.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Role\Edit.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.csproj.CoreCompileInputs.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\VitaBookStrore.MvcApplicationPartsAssemblyInfo.cache
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\_Layout.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Account\_ViewStart.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Book\_ViewStart.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DashboarLayout.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+D:\codegym\module2\VitaBookStrore - Copy\VitaBookStrore\obj\Debug\netcoreapp3.1\Razor\Views\Home\BookCategory.cshtml.g.cs

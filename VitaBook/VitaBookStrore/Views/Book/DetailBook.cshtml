@@ -1,0 +1,76 @@
+﻿@model HomeDetailViewModel;
+@{ var avatarPath = $"/images/{ (Model.book.AvatarPath ?? "nonavatar.png")}";
+
+}
+<from>
+    <div class="form-row">
+        <div class="col-sm-3">
+            <div>
+                <img src="@avatarPath" width="250" , height=" 350">
+            </div>
+        </div>
+
+        <div class="col-sm-9 table">
+
+            <table class="table-bordered">
+                <tr>
+                    <th width="150px">
+                        <h6> Tên sách: </h6>
+
+                    </th>
+                    <th>
+                        <h6> @Model.book.Name</h6>
+
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <h6>Tác giả: </h6>
+
+                    </th>
+                    <th>
+                        <h6> @Model.book.Author</h6>
+
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <h6> Giá bìa: </h6>
+
+                    </th>
+                    <th>
+                        <h6> @Model.book.Price.ToString("#,##0 VNĐ")</h6>
+
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <h6>Thể loại:</h6>
+
+                    </th>
+                    <th>
+                        <h6> @Model.book.GenreName</h6>
+
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <h6>Giới thiệu: </h6>
+
+                    </th>
+                    <th>
+                        <h6> @Model.book.Depscrip</h6>
+
+                    </th>
+                </tr>
+
+            </table>
+
+
+            <a asp-controller="Book" asp-action="Delete" asp-route-id="@Model.book.Id" class="btn btn-danger">Delete</a>
+            <a asp-controller="Book" asp-action="BookManagement" asp-route-id="@Model.book.Id" class="btn btn-primary">Back</a>
+
+        </div>
+     </div>
+
+</from>
