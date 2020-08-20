@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cK30K1drt64dZVXmrjd+LPumktRm9wbpkFotEL4n11uj9vYxwu0aS795f9ZC9ga0wvITS2ohDTp4xCRbpQcCSg==",
+  "dgSpecHash": "JY8wBQynQ3S7B681cBxQYtFO9QfetjVAVyHAeZwAeoyjcxfmKT4dcd3+5/4QhPMZUTttxOeFsSGzD15Oo3HDvA==",
   "success": true,
-  "projectFilePath": "D:\\codegym\\module2\\VitaBookStrore - Copy\\VitaBookStrore\\VitaBookStrore.csproj",
+  "projectFilePath": "D:\\codegym\\module2\\VitaBook\\VitaBookStrore\\VitaBookStrore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.5\\microsoft.aspnetcore.cryptography.internal.3.1.5.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.5\\microsoft.aspnetcore.cryptography.keyderivation.3.1.5.nupkg.sha512",

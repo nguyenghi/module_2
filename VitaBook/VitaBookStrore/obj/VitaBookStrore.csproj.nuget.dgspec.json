@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codegym\\module2\\VitaBookStrore - Copy\\VitaBookStrore\\VitaBookStrore.csproj": {}
+    "D:\\codegym\\module2\\VitaBook\\VitaBookStrore\\VitaBookStrore.csproj": {}
   },
   "projects": {
-    "D:\\codegym\\module2\\VitaBookStrore - Copy\\VitaBookStrore\\VitaBookStrore.csproj": {
+    "D:\\codegym\\module2\\VitaBook\\VitaBookStrore\\VitaBookStrore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codegym\\module2\\VitaBookStrore - Copy\\VitaBookStrore\\VitaBookStrore.csproj",
+        "projectUniqueName": "D:\\codegym\\module2\\VitaBook\\VitaBookStrore\\VitaBookStrore.csproj",
         "projectName": "VitaBookStrore",
-        "projectPath": "D:\\codegym\\module2\\VitaBookStrore - Copy\\VitaBookStrore\\VitaBookStrore.csproj",
+        "projectPath": "D:\\codegym\\module2\\VitaBook\\VitaBookStrore\\VitaBookStrore.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\codegym\\module2\\VitaBookStrore - Copy\\VitaBookStrore\\obj\\",
+        "outputPath": "D:\\codegym\\module2\\VitaBook\\VitaBookStrore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
